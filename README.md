@@ -1,4 +1,5 @@
 Resumen del Proyecto 
+
 Guess The Number es un juego interactivo que se desarrolla en el terminal, donde la jugadora y la computadora se turnan para intentar adivinar un número aleatorio entre 1 y 100. Deben tener en cuenta el intento anterior, si fue "muy alta" o "muy baja". El proyecto está construido en Python y utiliza el módulo unittest para las pruebas unitarias de sus diferentes funciones.
 
 Funcionalidades
